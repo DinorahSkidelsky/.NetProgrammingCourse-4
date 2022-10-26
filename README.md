@@ -1,4 +1,4 @@
-### 
+### Fourth Practical Work of the .Net Programming Course
 
 ### Create a WinForms project that does the following:
 
@@ -6,7 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/99146275/198011468-4dfef030-05ec-402e-8877-4dcebe3027d6.png)
 
-The enter (Ingresar) button should add values to a List.
+-The enter (Ingresar) button should add values to a List.
+
 
 2. Provide a data visualization to corroborate what was entered in the previous Form through a Listbox with the following format:
 
