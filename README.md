@@ -2,7 +2,7 @@
 
 ### Create a WinForms project that does the following:
 
-1. Provide a Book entry form with the following features and display.
+1. Provide a book entry form with the following features and display.
 
 ![image](https://user-images.githubusercontent.com/99146275/198011468-4dfef030-05ec-402e-8877-4dcebe3027d6.png)
 
